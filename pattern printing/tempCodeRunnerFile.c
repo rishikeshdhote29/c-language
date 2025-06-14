@@ -1,2 +1,2 @@
-     // for(k=i-1;k<=i;k--)
-        // printf("%d",k);
+for(k=2;k<=i;k++)
+        // printf("* ");

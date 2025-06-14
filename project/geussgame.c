@@ -39,7 +39,7 @@ int main()
      {
         printf("yah! you geussed number");
      }
-    else(atmp==10)
+    else
      {
        printf(" all attemps is over \n you lose this game\n try agian ");
      }
